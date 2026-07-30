@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi there, I'm M Asim Imtiaz<br><br>🎓 **BS Artificial Intelligence Student**<br>🤖 Passionate about **AI, Machine Learning & Data Science**<br>💻 Building intelligent applications with **Python, Flask & Streamlit**<br>📊 Interested in **Data Analysis, Predictive Modeling & Automation**<br>🚀 Currently learning **Deep Learning, Generative AI & MLOps**<br>🌱 Always exploring new technologies and contributing to open-source projects.<br><br>
 
 ## 🌐 Socials:
